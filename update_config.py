@@ -14,7 +14,7 @@ def get_token():
     url = "http://api-spb.peers.tv/auth/2/token"
 
     payload = (
-        "grant_type=inetra"
+        "grant_type=inetra%3Aanonymous"
         "&client_id=29783051"
         "&client_secret=b4d4eb438d760da95f0acb5bc6b5c760"
     )
