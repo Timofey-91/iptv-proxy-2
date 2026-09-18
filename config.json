@@ -12,5 +12,4 @@
   "russian_roman": "http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODk4MjYyMzksImlhdCI6MTc4OTczOTgzOSwiY2lkIjo2LCJ1aWQiOjEwODQyNTc1NjgsInJlZyI6ZmFsc2UsImlwIjoyODk3NjU4MjQ4LCJhZHVsdCI6ZmFsc2V9.ZrI8nEqtYe3Zp_DLOQZEhcs3AZBtp-7zthdDHJuHVcI&offset=10",
   "friday": "http://api.peers.tv/timeshift/friday/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODk4MjYyMzksImlhdCI6MTc4OTczOTgzOSwiY2lkIjo2LCJ1aWQiOjEwODQyNTc1NjgsInJlZyI6ZmFsc2UsImlwIjoyODk3NjU4MjQ4LCJhZHVsdCI6ZmFsc2V9.ZrI8nEqtYe3Zp_DLOQZEhcs3AZBtp-7zthdDHJuHVcI&offset=10",
   "star_family_hd": "http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3ODk4MjYyMzksImlhdCI6MTc4OTczOTgzOSwiY2lkIjo2LCJ1aWQiOjEwODQyNTc1NjgsInJlZyI6ZmFsc2UsImlwIjoyODk3NjU4MjQ4LCJhZHVsdCI6ZmFsc2V9.ZrI8nEqtYe3Zp_DLOQZEhcs3AZBtp-7zthdDHJuHVcI&offset=10"
-  "tvc_plus6": "https://limehd.cdnvideo.ru/streaming/tvcplus6/324/5/tracks-v4a1/mono.ts.m3u8?e=1789752884&md5=6jerdgEJkxyBlWvje3NdZA"
 }
