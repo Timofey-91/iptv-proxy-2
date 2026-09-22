@@ -12,7 +12,7 @@ CONFIG_FILE = "config.json"
 def get_token():
     """Получаем access_token с PeersTV"""
 
-    url = "http://api.spb.peers.tv/auth/2/token"
+    url = "http://api.peers.tv/auth/2/token"
 
     payload = (
         "grant_type=inetra%3Aanonymous"
@@ -57,7 +57,7 @@ def get_stream_url(channel, channel_id, token, offset):
     """Формируем оригинальную ссылку PeersTV"""
 
     base_url = (
-        f"http://api.spb.peers.tv/"
+        f"http://api.peers.tv/"
         f"timeshift/{channel}/{channel_id}/playlist.m3u8"
     )
 
